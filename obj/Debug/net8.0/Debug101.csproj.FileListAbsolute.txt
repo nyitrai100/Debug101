@@ -1,0 +1,14 @@
+/Users/nyitraibence/Desktop/C#projects/Debug101/bin/Debug/net8.0/Debug101
+/Users/nyitraibence/Desktop/C#projects/Debug101/bin/Debug/net8.0/Debug101.deps.json
+/Users/nyitraibence/Desktop/C#projects/Debug101/bin/Debug/net8.0/Debug101.runtimeconfig.json
+/Users/nyitraibence/Desktop/C#projects/Debug101/bin/Debug/net8.0/Debug101.dll
+/Users/nyitraibence/Desktop/C#projects/Debug101/bin/Debug/net8.0/Debug101.pdb
+/Users/nyitraibence/Desktop/C#projects/Debug101/obj/Debug/net8.0/Debug101.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nyitraibence/Desktop/C#projects/Debug101/obj/Debug/net8.0/Debug101.AssemblyInfoInputs.cache
+/Users/nyitraibence/Desktop/C#projects/Debug101/obj/Debug/net8.0/Debug101.AssemblyInfo.cs
+/Users/nyitraibence/Desktop/C#projects/Debug101/obj/Debug/net8.0/Debug101.csproj.CoreCompileInputs.cache
+/Users/nyitraibence/Desktop/C#projects/Debug101/obj/Debug/net8.0/Debug101.dll
+/Users/nyitraibence/Desktop/C#projects/Debug101/obj/Debug/net8.0/refint/Debug101.dll
+/Users/nyitraibence/Desktop/C#projects/Debug101/obj/Debug/net8.0/Debug101.pdb
+/Users/nyitraibence/Desktop/C#projects/Debug101/obj/Debug/net8.0/Debug101.genruntimeconfig.cache
+/Users/nyitraibence/Desktop/C#projects/Debug101/obj/Debug/net8.0/ref/Debug101.dll
