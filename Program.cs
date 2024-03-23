@@ -1,6 +1,6 @@
 ﻿/* 
 This code uses a names array and corresponding methods to display
-greeting messages
+greeting message
 */
 
 string[] names = new string[] { "Sophia", "Andrew", "AllGreetings" };
