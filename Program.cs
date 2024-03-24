@@ -9,13 +9,16 @@ string messageText = "";
 
 foreach (string name in names)
 {
-    if (name == "Sophia")
+    if (name == "Sophia"){
         messageText = SophiaMessage();
-    else if (name == "Andrew")
-        messageText = AndrewMessage();
-    else if (name == "AllGreetings")
+        }
+    else if (name == "Andrew"){
+        messageText = AndrewMessage();}
+        
+    else if (name == "AllGreetings"){
         messageText = SophiaMessage();
         messageText = messageText + "\n\r" + AndrewMessage();
+        }
 
     Console.WriteLine(messageText + "\n\r");
 }
