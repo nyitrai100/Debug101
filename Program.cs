@@ -164,14 +164,51 @@
 
 
 //Fourth task
-bool exit = false;
-var rand = new Random();
-int num1 = 5;
-int num2 = 5;
+// bool exit = false;
+// var rand = new Random();
+// int num1 = 5;
+// int num2 = 5;
 
-do
-{
-    num1 = rand.Next(1, 11);
-    num2 = num1 + rand.Next(1, 51);
+// do
+// {
+//     num1 = rand.Next(1, 11);
+//     num2 = num1 + rand.Next(1, 51);
 
-} while (exit == false);
+// } while (exit == false);
+
+
+
+
+//Exercise - Complete a challenge activity using the debugger
+/*  
+This code instantiates a value and then calls the ChangeValue method
+to update the value. The code then prints the updated value to the console.
+*/
+
+//my solution
+// int x = 5;
+// int changedValue = 0;
+// ChangeValue(x);
+
+
+// Console.WriteLine(changedValue);
+
+
+// void ChangeValue(int value) 
+// {
+//     value = 10;
+//     changedValue += value;
+   
+// }
+
+
+//their solution
+// int x = 5;
+// x = ChangeValue(x);
+// Console.WriteLine(x);
+
+// int ChangeValue(int value) 
+// {
+//     value = 10;
+//     return value;
+// }
