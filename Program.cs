@@ -233,7 +233,7 @@ to update the value. The code then prints the updated value to the console.
       {
           WriteMessage();
       }
-      catch (Exception ex)
+      catch (DivideByZeroException ex)
       {
           Console.WriteLine($"Exception caught in Process1: {ex.Message}");
       }
@@ -245,7 +245,25 @@ to update the value. The code then prints the updated value to the console.
       double float2 = 0.0;
       int number1 = 3000;
       int number2 = 0;
+      byte smallNumber;
 
+
+    try{
       Console.WriteLine(float1 / float2);
       Console.WriteLine(number1 / number2);
+        }
+        catch(DivideByZeroException ex){
+                 Console.WriteLine($"Exception caught in WriteMessage: {ex.Message}");
+        }
+     checked
+    {
+            try
+    {
+        smallNumber = (byte)number1;
+    }
+    catch (OverflowException ex)
+    {
+        Console.WriteLine($"Exception caught in WriteMessage: {ex.Message}");
+    }  
+    }
   }
